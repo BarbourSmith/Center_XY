@@ -2,7 +2,12 @@
 
 # Center_XY
 
-![](/project.svg)
+![](/project.png)
+
+## Inputs
+
+- **Geometry** (geometry)
+
 
 
 
